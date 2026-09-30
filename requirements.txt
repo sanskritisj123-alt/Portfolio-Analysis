@@ -1,8 +1,0 @@
-numpy 
-pandas
-streamlit
-plotly.express
-plotly.graph_objects
-yfinance
-scipy.optimize 
-minimize
